@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
+    "helmet": "^6.0.0",
     "joi": "^13.1.0",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
   }
 }
